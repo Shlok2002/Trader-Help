@@ -2,6 +2,10 @@
 A collection of code, resources and papers to help become a better trader.
 
 
+<details>
+<summary>Automating order placement</summary>
+<br>
+
 ## Python Code for Kite Zerodha Platform
 
 ### Installation
@@ -109,4 +113,5 @@ kite.cancel_order(variety=kite.VARIETY_REGULAR,
                   parent_order_id=None)
                   
 ```
+</details>
 
